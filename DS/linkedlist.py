@@ -1,3 +1,4 @@
+
 class Node:
     """A Node of a linked list."""
     def __init__(self, data):
